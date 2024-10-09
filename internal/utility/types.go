@@ -1,4 +1,4 @@
-package pokeapi
+package utility
 
 type LocationAreaResp struct {
 	Count    int     `json:"count"`
